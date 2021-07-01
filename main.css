@@ -4,9 +4,17 @@
     border-radius: 50%;
     margin: 50px;
 }
+
 #second {
     width: 100px;
     background: red;
+    margin: 50px;
+}
+
+#blue {
+    width: 100px;
+    height: 100px;
+    background: blue;
     margin: 50px;
 }
 
