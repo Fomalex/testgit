@@ -1,5 +1,6 @@
 #main {
     width: 100px;
+    height: 100px;
     background: green;
     border-radius: 50%;
     margin: 50px;
@@ -7,6 +8,7 @@
 
 #second {
     width: 100px;
+    height: 100px;
     background: red;
     margin: 50px;
 }
@@ -20,6 +22,7 @@
 
 #pink {
     width: 100px;
+    height: 100px;
     background: pink;
     border-radius: 50%;
     margin: 50px;
